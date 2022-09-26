@@ -1,0 +1,21 @@
+﻿  Lab_5.cpp
+C:\Users\Admin\Downloads\Lab_5.cpp(14,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(173): message : см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+C:\Users\Admin\Downloads\Lab_5.cpp(15,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(174): message : см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+C:\Users\Admin\Downloads\Lab_5.cpp(16,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(175): message : см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+C:\Users\Admin\Downloads\Lab_5.cpp(17,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(176): message : см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+C:\Users\Admin\Downloads\Lab_5.cpp(19,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(181): message : см. предыдущее определение "IP_REQ_TIMED_OUT"
+C:\Users\Admin\Downloads\Lab_5.cpp(20,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(182): message : см. предыдущее определение "IP_BAD_REQ"
+C:\Users\Admin\Downloads\Lab_5.cpp(21,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(183): message : см. предыдущее определение "IP_BAD_ROUTE"
+C:\Users\Admin\Downloads\Lab_5.cpp(22,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(184): message : см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+C:\Users\Admin\Downloads\Lab_5.cpp(34,3): error C2371: IP_OPTION_INFORMATION: переопределение; различные базовые типы
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(60): message : см. объявление "IP_OPTION_INFORMATION"
+C:\Users\Admin\Downloads\Lab_5.cpp(156,7): error C2373: IcmpSendEcho: переопределение; различные модификаторы типа
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\icmpapi.h(200): message : см. объявление "IcmpSendEcho"
